@@ -23,7 +23,7 @@ Electricity is essentially non-storable and must be balanced in real time. That 
 
 Classical linear models miss those interactions. This project builds a model that sees both the **map of UK weather** and the **market state**, and that reports **uncertainty**, not only a point forecast.
 
-A longer write-up (methods, equations, discussion) is in [`REPORT.md`](REPORT.md).
+A longer write-up (methods, equations, discussion) is in the report.
 
 ## Results
 
